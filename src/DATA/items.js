@@ -263,6 +263,16 @@ const All =  [
        title: 'Sheet',
       price: 1150.00
            },
+    //    id: 1,
+        //    img: "https://alphasilver.productsalphawizz.com/uploads/media/2024/thumb-sm/download_(2)1.jpg",
+        //    title: "Clothing",
+        //    heading1: "ClOTHING",
+        //    heading2: "Clothing Catogary",
+        //    img1: "https://alphasilver.productsalphawizz.com/uploads/media/2024/Men_Elegant_Shirt_And_Trouser_for_office_wear_mens_formal_shirt_and_pants_for_wedding_shirt_and_pants_for_groomsmen.jpg",
+        //    name1: "Shirt",
+        //    img2: "https://alphasilver.productsalphawizz.com/uploads/media/2024/saree1.jpg",
+        //    name2: "Shirt",
+        //    Catagory:  "clothing"
            
 ]
 

@@ -12,11 +12,11 @@ const Foot = () => {
   return (
     <div className='overflow-x-clip'>
        
-            <div className=" text-center bg-teal-500">
+            <div className=" text-center bg-teal-500 ">
         <div className="row ">
           <div className="col  p-8">
               <div className='flex'>
-              <span className='h-14 w-36'><FaCaravan className="text-5xl text-white" /></span>
+              <span className='h-14 w-36 ms-10'><FaCaravan className="text-5xl text-white" /></span>
               <div  className='ms-5'>
             <h1 className='text-white font-bold'>Fast Slipping</h1>
             <h2 className='mt-2 text-white'>Fast slipping at your door step</h2>

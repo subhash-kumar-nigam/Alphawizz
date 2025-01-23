@@ -8,7 +8,7 @@ import Nav from '../Nav';
 import Footer from '../Footer';
 
 
-const ProductAll = () => {
+const ProductAll = ({ All }) => {
  
   return (
     <div>

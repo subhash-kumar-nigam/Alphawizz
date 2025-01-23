@@ -67,7 +67,7 @@ const Material = () => {
         }
          <div className='border border-b-4 ps-20 mt-4'>
                   
-                  <div className='mt-28 mb-24'>
+                  <div className='mt-40 mb-24'>
                    <h1 className='me-12 font-bold text-2xl'>Offer</h1>
                    <h4 className='me-12'>Special Offer</h4>
                    <Link to="/materialone"><button className='me-12 font-bold text-teal-400'>View All</button></Link>

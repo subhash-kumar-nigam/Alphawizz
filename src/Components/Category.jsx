@@ -47,8 +47,8 @@ const Category = () => {
         catagory?.map((product)=>{
             return(
                 <span key={product.id}>
-                <Link to={`/categoryclick/${product.id}`}><img src={product?.img} alt="" className='rounded-full max-w-32 h-32 w-32 border border-teal-500'  /></Link>
-                <Link><h1 className='ms-4'>{product.title}</h1></Link>
+                <Link to={`/categoryclick/${product.id}`}><img src={product?.img} alt="" className='rounded-full  ms-5 max-w-32 h-32 w-32 border border-teal-500'  /></Link>
+                <Link><h1 className='ms-12 '>{product.title}</h1></Link>
              </span>
             
             )

@@ -17,7 +17,7 @@ const Footer = () => {
  
     <div className="col">
       <div className='flex'>
-        <div className=' ms-40 mt-20 mb-20'>
+        <div className=' ms-16 mt-20 mb-20'>
           <img src="Images/newlogo22.png" alt="" className='h-24 w-30'  />
         </div>
         <div className=''>
@@ -38,7 +38,7 @@ const Footer = () => {
           </div>
         </div>
         </div>
-        <div className='ms-8'>
+        <div className='ms-1'>
           <h1 className='text-white ms-28 mt-20 text-2xl font-bold'>Connect with Us</h1>
           <div className='text-white flex list-none ms-44 mt-3 gap-2 '>
             <li className='border border-white p-3 rounded-full bg-blue-400 '><a href="https://www.facebook.com/"><FaFacebook /></a></li>

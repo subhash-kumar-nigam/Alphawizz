@@ -70,7 +70,7 @@ const Navbar = ({setData}) => {
           <div>
         <header id="Home" className=" my-2">
       <div className="  flex items-center ms-auto ">
-      <div className="h-5 w-36 ms-2 mb-5">
+      <div className="h-5 w-36 ms-5 mb-5">
         <img src="Images/newlogo22.png " alt="" className="w-full " />
       </div>
         <div className="ms-12">
